@@ -1,4 +1,7 @@
 # SimVFA
+
+Nonlinear Model based on the PhD thesis of Travis E. Gibson
+
 Adaptive Control of Very-Flexible Aircraft in Simulink
 ![Rendering of 3-wing VFA model](VFA.jpg)
 
